@@ -62,7 +62,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #f0f0f0;
   --bs-border-width: 1px;
   --bs-border-style: solid;
   --bs-border-color: #dee2e6;
@@ -10852,4 +10852,8 @@ header.masthead .post-heading .meta a {
 .flash {
   color: #ee6f57;
   text-align: center;
+}
+
+.indented {
+  text-indent: 2em; /* or use px, like 40px */
 }
